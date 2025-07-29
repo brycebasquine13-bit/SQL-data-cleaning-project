@@ -162,6 +162,7 @@ FROM layoffs_staging2;
 ALTER TABLE layoffs_staging2
 DROP COLUMN row_num;
 
+-- https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 
 
